@@ -2330,7 +2330,7 @@
                     if (!basicBot.commands.executable(this.rank, chat)) return void (0);
                     else {
                         var link = "(https://git.io/vofmh)";
-                        API.sendChat(subChat(basicBot.chat.starterhelp, {link: link}));
+                        API.sendChat(subChat(basicBot.chat.starterhelp, {link:https://raw.githubusercontent.com/deadinsidehlp/meu-bot/master/Ajuda link}));
                     }
                 }
             },
