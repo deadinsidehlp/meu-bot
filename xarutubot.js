@@ -245,10 +245,10 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot v2",
-            language: "english",
+            botName: "xaropi",
+            language: "portuguese",
             chatLink: "https://rawgit.com/javascripto/basicBot-v2/master/lang/en.json",
-            scriptLink: "https://rawgit.com/javascripto/basicBot-v2/master/basicBot.js",
+            scriptLink: "https://github.com/deadinsidehlp/meu-bot/edit/master/xarutubot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 200, // 1-200
             startupVolume: 20, // 0-100
