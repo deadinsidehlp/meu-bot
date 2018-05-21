@@ -53,7 +53,7 @@
         "Provavelmente.",
         "Est\u00e1 brincando?",
         "N\u00e3o aposte nisso.",
-        "Esque\u00e7a isso."
+        "Vai da o cu."
     ],
     "nodatafound": "Dados anteriores n\u00e3o encontrados.",
     "currentlang": "\/me Idioma definido: %%LANGUAGE%%",
@@ -200,7 +200,7 @@
     "unmuterank": "\/me [@%%NAME%%] Voc\u00ea n\u00e3o pode desmutar usu\u00e1rios do mesmo rank ou superior.",
     "commandscd": "\/me [@%%NAME%%] O tempo de espera de comandos para usu\u00e1rios agora \u00e9 %%TIME%% segundos.",
     "voteratio": "\/me [@%%NAME%%] @%%USERNAME%% ~ woots: %%WOOT%%, mehs: %%MEHS%%, taxa\/propor\u00e7\u00e3o (w\/m): %%RATIO%%.",
-    "website": "\/me VAi da o cu",
+    "website": "\/me Visite nosso site: %%LINK%%",
     "youtube": "\/me [%%NAME%%] Inscreva-se no nosso canal: %%LINK%%",
     "songstatistics": "\/me %%ARTIST%% - %%TITLE%%: %%WOOTS%%W\/%%GRABS%%G\/%%MEHS%%M.",
     "thorNotClose": "\/me @%%NAME%% voc\u00ea n\u00e3o \u00e9 d\u00edgno nem de chegar perto do martelo!",
