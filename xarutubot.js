@@ -303,7 +303,7 @@
             website: null,
             intervalMessages: [],
             messageInterval: 5,
-            songstats: true,
+            songstats: false,
             commandLiteral: "!",
             blacklists: {
                 NSFW: "https://rawgit.com/javascripto/basicBot-v2/master/blacklists/NSFWlist.json",
