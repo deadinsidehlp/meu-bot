@@ -234,7 +234,7 @@
 
     var basicBot = {
         version: "4.0.1",
-        status: false,
+        status: true,
         name: "Xaropi V4",
         loggedInID: null,
         scriptLink: "https://rawgit.com/javascripto/basicBot-v2/master/basicBot.js",
@@ -248,7 +248,7 @@
             botName: "xaropi",
             language: "portuguese",
             chatLink: "https://rawgit.com/javascripto/basicBot-v2/master/lang/en.json",
-            scriptLink: "https://github.com/deadinsidehlp/meu-bot/edit/master/xarutubot.js",
+            scriptLink: "https://raw.githack.com/deadinsidehlp/meu-bot/master/xarutubot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 200, // 1-200
             startupVolume: 20, // 0-100
