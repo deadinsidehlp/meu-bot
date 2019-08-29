@@ -233,9 +233,9 @@
     var botCreatorIDs = ["3851534", "4105209", "10171579"];
 
     var basicBot = {
-        version: "0.0.1",
+        version: "4.0.1",
         status: false,
-        name: "basicBot v2",
+        name: "Xaropi V4",
         loggedInID: null,
         scriptLink: "https://rawgit.com/javascripto/basicBot-v2/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
