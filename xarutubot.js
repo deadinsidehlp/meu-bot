@@ -247,7 +247,7 @@
         settings: {
             botName: "xaropi",
             language: "portuguese",
-            chatLink: "https://rawgit.com/javascripto/basicBot-v2/master/lang/en.json",
+            chatLink: "https://raw.githack.com/deadinsidehlp/meu-bot/master/pt-br.json",
             scriptLink: "https://raw.githack.com/deadinsidehlp/meu-bot/master/xarutubot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 200, // 1-200
